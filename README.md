@@ -24,7 +24,7 @@ These indexes are important tools in:
 
 ## 📅 Period Covered
 
-The dataset covers monthly data from **January 2000 to December 2024**, depending on availability.
+The dataset covers monthly data from **January 2007 to December 2024**, depending on availability.
 
 ---
 
