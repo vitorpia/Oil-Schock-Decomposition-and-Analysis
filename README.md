@@ -3,6 +3,8 @@
 **Description**:  
 This repository provides a fully reproducible Python pipeline to construct three oil price shock indexes — **ODS (Oil Demand Shock)**, **OSS (Oil Supply Shock)**, and **ORS (Oil Risk Shock)** — based on Brent prices, macroeconomic activity, and volatility data. The methodology is inspired by macro-financial literature and uses freely available APIs (Yahoo Finance and FRED).
 
+The three indexes — ODS, OSS, and ORS — enable the decomposition of oil price fluctuations into aggregate demand shocks, supply disruptions, and financial uncertainty, respectively. The ODS captures periods when oil prices rise due to strong global economic activity, while the OSS reflects supply-side pressures often linked to geopolitical tensions or production breakdowns. The ORS, derived from GARCH-based conditional volatility, serves as a proxy for market risk perception in the oil sector. Together, these indicators provide a powerful toolkit for macroeconomic analysis, inflation forecasting, and policymaking that is sensitive to developments in global energy markets.
+
 ---
 
 ## 🧭 Background and Motivation
